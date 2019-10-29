@@ -13,6 +13,6 @@ The User gets to pick the soft constraint to fulfil from the following options:
 - Minimize the number of early ( 8 AM ) Lectures
 - Minimize the number of lectures outside the IT Building
 
-![Alt text](https://github.com/ihababdelkareem/CSP-Scheduling/blob/master/output-sample.png
+![Alt text](https://github.com/ihababdelkareem/CSP-Scheduling/blob/master/output-sample.png)
 
 This project was done by Bader Anini and Ihab Abdelkarim
