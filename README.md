@@ -15,4 +15,7 @@ The User gets to pick the soft constraint to fulfil from the following options:
 
 ![Alt text](https://github.com/ihababdelkareem/CSP-Scheduling/blob/master/output-sample.png)
 
-This project was done by Bader Anini and Ihab Abdelkarim
+# Authors
+Ihab Abdelkareem
+
+Bader Anini (@baderanini)
